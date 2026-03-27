@@ -7,7 +7,7 @@
 这是一个高度定制化的强化学习（RL）框架，专为 **Unitree Go2** 机器狗设计，用于实现跑酷和复杂地形下的运动控制。本项目基于 NVIDIA Isaac Lab 和 `unitree_rl_lab` 深度二次开发。
 
 ![演示]
-![alt text](<)6F(SRO5I%3O3~J7X5_EFP8.png>)
+![alt text](<picture.png>)
 
 ## ✨ 核心特性
 
