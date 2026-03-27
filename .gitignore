@@ -1,0 +1,17 @@
+# 屏蔽日志和输出
+logs/
+outputs/
+*.pt
+*.pth
+*.onnx
+
+# 屏蔽 Python 缓存和打包产物
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# 屏蔽编辑器配置
+.vscode/
+.idea/
